@@ -8,4 +8,4 @@ assignees: ''
 ---
 
 **Author:**
-**Goodread:**
+**Goodreads:**
