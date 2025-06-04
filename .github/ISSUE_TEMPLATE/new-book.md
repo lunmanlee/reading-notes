@@ -1,6 +1,6 @@
 ---
-name: Book name
-about: Book name
+name: New Book
+about: New Book
 title: ''
 labels: ''
 assignees: ''
